@@ -1,0 +1,16 @@
+{
+  "name": "devilbot",
+  "version": "1.0.0",
+  "description": "The Devil himself in a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noubar Kassabian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.4"
+  }
+}
